@@ -3,17 +3,17 @@
 	border-width:1px:
 }
 #yellow {
-	border-style:solid;
+	border:solid green;
 	background-color: yellow;
-	border-color:green;
+	
 }
 #red {
-	border-style:solid;
+	border:solid black;
 	background-color:red;
-	border-color: solid black;
+
 }
 #green {
-	border-style:solid;
+	border:solid  yellow;
 	background-color:green;
-	border-color:yellow;
+
 }
