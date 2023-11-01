@@ -1,12 +1,13 @@
 /*  your css code here. If applicable */
-*p{
+.p{
 	border-width:1px:
 }
-#yellow {
-	border:solid green;
-	background-color: yellow;
-	
+#yellow{
+	border: solid green;
+	background-color:yellow;
+
 }
+
 #red {
 	border:solid black;
 	background-color:red;
